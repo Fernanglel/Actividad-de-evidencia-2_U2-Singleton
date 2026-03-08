@@ -1,0 +1,14 @@
+C:\Users\ferna\videos\Patrones\SINGLETON\obj\Debug\net9.0\SINGLETON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\videos\Patrones\SINGLETON\obj\Debug\net9.0\SINGLETON.AssemblyInfoInputs.cache
+C:\Users\ferna\videos\Patrones\SINGLETON\obj\Debug\net9.0\SINGLETON.AssemblyInfo.cs
+C:\Users\ferna\videos\Patrones\SINGLETON\obj\Debug\net9.0\SINGLETON.csproj.CoreCompileInputs.cache
+C:\Users\ferna\videos\Patrones\SINGLETON\bin\Debug\net9.0\SINGLETON.exe
+C:\Users\ferna\videos\Patrones\SINGLETON\bin\Debug\net9.0\SINGLETON.deps.json
+C:\Users\ferna\videos\Patrones\SINGLETON\bin\Debug\net9.0\SINGLETON.runtimeconfig.json
+C:\Users\ferna\videos\Patrones\SINGLETON\bin\Debug\net9.0\SINGLETON.dll
+C:\Users\ferna\videos\Patrones\SINGLETON\bin\Debug\net9.0\SINGLETON.pdb
+C:\Users\ferna\videos\Patrones\SINGLETON\obj\Debug\net9.0\SINGLETON.dll
+C:\Users\ferna\videos\Patrones\SINGLETON\obj\Debug\net9.0\refint\SINGLETON.dll
+C:\Users\ferna\videos\Patrones\SINGLETON\obj\Debug\net9.0\SINGLETON.pdb
+C:\Users\ferna\videos\Patrones\SINGLETON\obj\Debug\net9.0\SINGLETON.genruntimeconfig.cache
+C:\Users\ferna\videos\Patrones\SINGLETON\obj\Debug\net9.0\ref\SINGLETON.dll
